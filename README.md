@@ -22,3 +22,6 @@ The motivation behind FoliageDB is to address the challenge of automated identif
 ---
 
 Please note that the above information is based on the provided citation and description of the FoliageDB database.
+
+![FoliageDB]([image_url](https://github.com/Daudgit/FoliageDB-A-novel-database-designed-for-automated-identification-of-similarly-patterned-leaves/blob/main/FoliageDB.png)https://github.com/Daudgit/FoliageDB-A-novel-database-designed-for-automated-identification-of-similarly-patterned-leaves/blob/main/FoliageDB.png)
+
